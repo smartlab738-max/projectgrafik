@@ -21,7 +21,7 @@
             476400,
             241100,
             251800,
-            1,
+            1000,
             null
           ]
         },
@@ -453,5 +453,5 @@
     "hormon": "Rekap Pemakaian Listrik Hormon"
   },
   "panelTitles": {},
-  "modifiedAt": "2026-11-12T14:51:28.431Z"
+  "modifiedAt": "2026-11-12T15:22:05.751Z"
 }
